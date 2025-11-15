@@ -7,6 +7,6 @@
   ],
   "name": "Aura",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://cunning-koala-q3v0wp-dev-ed.trailblaze.lightning.force.com/",
   "sourceApiVersion": "65.0"
 }
